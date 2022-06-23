@@ -22,7 +22,7 @@ See [a screenshot of the 2017 and 2018 stock performances](https://github.com/jo
 
 ### Execution times of the scripts
 
-The original code [took over a second to run for both years](https://github.com/josephrodini/stock-analysis/blob/main/VBA_Challenge_notRefactoredRunTimes.png). The refactored code was faster for [both 2017] (https://github.com/josephrodini/stock-analysis/blob/main/VBA_Challenge_2017.png) [and 2018] (https://github.com/josephrodini/stock-analysis/blob/main/VBA_Challenge_2018.png). The key difference was the creation of a ticker index that iterated through all the arrays. 
+The original code [took over a second to run for both years](https://github.com/josephrodini/stock-analysis/blob/main/VBA_Challenge_notRefactoredRunTimes.png). The refactored code was faster for [both 2017](https://github.com/josephrodini/stock-analysis/blob/main/VBA_Challenge_2017.png) [and 2018](https://github.com/josephrodini/stock-analysis/blob/main/VBA_Challenge_2018.png). The key difference was the creation of a ticker index that iterated through all the arrays. 
 
 ### Limitations
 
