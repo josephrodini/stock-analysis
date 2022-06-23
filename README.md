@@ -27,3 +27,9 @@ The original code [took over a second to run for both years](https://github.com/
 ### Limitations
 
 Steve might want to consider comparing green data stocks to other fuel sourced stocks in order to see trends across different industries. He might also want more recent stock data to see more recent trends.
+
+## Summary
+
+Refactoring code is generally a good idea. First and foremost, it is an optimization process that improves the run time of the code. This improved run time saves the computer resources. Refactoring code is also useful in that it can eliminate redundancies in the code, making the code easier to understand. The major downsides of refactoring are the resources it takes: time and energy. If a coder needs to work on another project or is on a tight deadline, spending additional time and energy refactoring code that already does a decent job could prove detrimental.
+
+As it applies to the stocks analysis, refactoring was a good idea. It improved the run time by almost tenfold and only required a few changed lines of code.
