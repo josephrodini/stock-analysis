@@ -10,7 +10,7 @@ A good friend, Steve, is helping his parents evaluate green energy stocks. In pa
 
 ## Analysis and Challenges
 
-A VBA script called "AllStocksAnalysisRefactored" was created in order to run an analysis of the 11 green energy stocks. Specifically, code was written in order to calculate the stocks' total daily volume and return percentage. This script is a refactored coding of an earlier attempt to analyze the stock data, so we expect it to be more succinct and to run faster than the earlier iteration.
+A VBA script called "AllStocksAnalysisRefactored" was created in order to run an analysis of the 12 green energy stocks. Specifically, code was written in order to calculate the stocks' total daily volume and return percentage. This script is a refactored coding of an earlier attempt to analyze the stock data, so we expect it to be more succinct and to run faster than the earlier iteration.
 
 No major challenges were encountered during these analyses. If the data had been incomplete or if the data had been haphazardly organized within the data set, analyses would have proven to have been more difficult.
 
